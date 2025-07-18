@@ -57,13 +57,3 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 
 ---
 
-## 🖼️ Screenshot Upload Guide
-
-### ✅ How to show the screenshot in README
-
-1. Take a screenshot of your enhanced `/friends` page.
-2. Save it as `screenshot.png`.
-3. Create a folder in your GitHub repo called `images`.
-4. Upload the image inside the `images/` folder.
-5. The image is automatically shown using this syntax:
-
