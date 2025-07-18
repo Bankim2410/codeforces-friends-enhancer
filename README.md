@@ -67,4 +67,3 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 4. Upload the image inside the `images/` folder.
 5. The image is automatically shown using this syntax:
 
-```md
