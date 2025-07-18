@@ -13,7 +13,7 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 
 ## ✨ Preview
 
-![Codeforces Friends Enhancer Screenshot](images/screenshot.png)
+![Codeforces Friends Enhancer Screenshot](screenshot.png)
 
 ---
 
@@ -68,4 +68,4 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 5. The image is automatically shown using this syntax:
 
 ```md
-![screenshot](images/screenshot.png)
+![screenshot](screenshot.png)
