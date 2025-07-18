@@ -1,11 +1,10 @@
 # 🚀 Codeforces Friends Enhancer
 
-Enhance your Codeforces experience! This userscript replaces the default `/friends` page with a **beautiful, sortable table** showing:
+Enhance your Codeforces experience! This userscript replaces the default `/friends` page with a **beautiful, sorted table** showing:
 
 - ✅ Username  
 - 📈 Current Rating  
-- 🏆 Number of Contests  
-- 💼 Includes your own stats too!
+- 🏆 Highest Achieved Rank
 
 > 🔧 Built with love by [Bankim Chandra Das](https://github.com/Bankim2410)
 
@@ -19,10 +18,9 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 
 ## 📦 Features
 
-- Replaces default friends list with a sortable, clean table
-- Shows **current rating** and **contest count**
-- Includes **your Codeforces handle** too!
-- Fully runs in the browser using Tampermonkey
+- Replaces default friends list with a sorted, clean table
+- Shows **current rating**
+- Shows highest achieved rank
 
 ---
 
@@ -34,8 +32,6 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 
 - **Chrome**: [Chrome Web Store Link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - **Firefox**: [Firefox Add-ons Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-
-> Restart the browser after installation if needed.
 
 ---
 
