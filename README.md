@@ -68,4 +68,3 @@ Enhance your Codeforces experience! This userscript replaces the default `/frien
 5. The image is automatically shown using this syntax:
 
 ```md
-![screenshot](screenshot.png)
